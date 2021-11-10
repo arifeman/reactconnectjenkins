@@ -1,3 +1,7 @@
+# arif 
+Creating this to test jenkins auto build with each push. Testing integration on home self-hosted jenkins.
+Created temp VM on Proxmox and exposed vm via NGINX proxy manager.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
